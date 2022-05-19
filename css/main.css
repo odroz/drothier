@@ -1155,7 +1155,7 @@ input.search-field {
 
 .gallery {
 	position: relative;
-	background: url(../img/gallery.png);
+/*	background: url(../img/gallery.png);*/
 	background-size: cover;
 	background-position: center;
 }
